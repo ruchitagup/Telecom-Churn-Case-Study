@@ -1,0 +1,3 @@
+Recommendations
+
+From the graph we can see that the subscribers with higher IC/OG Minutes of usage, higher 2G (MB) volume, those who have used 3G, those who have recharged a number of times in the action phase (August month) and have also recharged on the last day of the August month, those using monthly and sachet schemes, and those who have been using the Services for a longer period (age on network is more) have a lower probability of churning. To discourage subscribers from Churning, we can offer them more lucrative monthly and sachet schemes. Provide them incoming free and outgoing calls at a cheaper rate and have cost effective schemes which provides both IC/OG with 2G/3G data. 
